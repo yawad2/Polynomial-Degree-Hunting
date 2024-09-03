@@ -21,4 +21,4 @@ This project implements and compares regularized gradient descent and regularize
   - Regularization constant: 0.001
 
 ## Usage
-Run the program from the command line, providing training and test data files as arguments:
+Run the program from the command line, providing training and test data files as arguments
